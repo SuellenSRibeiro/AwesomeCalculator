@@ -1,7 +1,6 @@
 # AwesomeCalculator
-# AwesomeCalc
 
-AwesomeCalc é uma calculadora incrível desenvolvida em Visual Basic.
+AwesomeCalculator é uma calculadora incrível desenvolvida em Visual Basic.
 
 ## Recursos
 
